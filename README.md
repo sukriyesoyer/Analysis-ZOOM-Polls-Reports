@@ -1,4 +1,4 @@
-# Analysis-ZOOM-Polls-Reporst
+# Analysis-ZOOM-Polls-Reports
 The purpose of the system is to develop a software for processing and analyzing
 Zoom poll reports. The system gets an excel file of polls, student list, and answer keys
 of the polls. According to answer keys, system calculates points of each student. Also,
